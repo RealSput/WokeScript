@@ -12,6 +12,15 @@
   "dependencies": {
     "@cliffhanger-js/cliffhanger": "^1.1.7"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealSput/wokescript.git"
+  },
+  "author": "RealSput",
+  "bugs": {
+    "url": "https://github.com/RealSput/wokescript/issues"
+  },
+  "homepage": "https://github.com/RealSput/wokescript",
   "bin": {
     "wokescript": "src/index.js"
   }
