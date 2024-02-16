@@ -1,0 +1,18 @@
+{
+  "name": "wokescript",
+  "version": "1.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cliffhanger-js/cliffhanger": "^1.1.7"
+  },
+  "bin": {
+    "wokescript": "src/index.js"
+  }
+}
