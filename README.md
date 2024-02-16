@@ -9,6 +9,23 @@ console.log(he(v)); // you can also use `him(v)`;
 ```
 Misgendering your variables will result in an error.
 
+# Installation
+You can install WokeScript through NPM:
+```
+npm i -g wokescript
+```
+
+# CLI Usage
+```
+WokeScript (version 1.0) 
+The most woke JavaScript superset ever 
+
+Usage: wokescript [options]
+Options:
+--transpile (short: -t): Transpiles code
+--input (short: -i): Input file
+--output (short: -o): Output file
+```
 # Pronouns
 There are currently three possible pronouns:
 - he/him
@@ -28,4 +45,4 @@ There are a couple of functions in WokeScript, and all of the functions listed a
 There is also a `pronouns` function, which returns the pronouns of a variable when they are unknown.
 
 # Note
-This is very broken currently and will probably error.
+This is very broken currently and will probably error. Report issues at https://github.com/RealSput/wokescript/issues
